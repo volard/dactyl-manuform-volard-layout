@@ -24,7 +24,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   //                  └────────┴────────┘        ┌────────┬────────┐        ┌────────┬────────┐        └────────┴────────┘
                                                   RAISE,   KC_SPC,           KC_ENT,  LOWER,
   //                                             ├────────┼────────┤        ├────────┼────────┤
-                                                  KC_TAB,  KC_HOME,          KC_END,  KC_HOME,
+                                                  KC_TAB,  KC_HOME,          KC_END,  KC_LSFT,
   //                                             ├────────┼────────┤        ├────────┼────────┤
                                                   KC_BSPC,  KC_GRV,          KC_LGUI, KC_LALT
   //                                             └────────┴────────┘        └────────┴────────┘
